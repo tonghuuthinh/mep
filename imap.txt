@@ -1,0 +1,58 @@
+{
+  "Yahoo": {
+    "host": "imap.mail.yahoo.com",
+    "port": 993
+  },
+  "AOL" : {
+    "host":"imap.aol.com",
+    "port":993
+  },
+  "Outlook.com / Hotmail": {
+    "host": "imap-mail.outlook.com",
+    "port": 993
+  },
+  "ATT.net" : {
+    "host":"imap.mail.att.net",
+    "port":993
+  },
+  "windstream.net ( fake ip usa )": {
+    "host": "imap.windstream.net",
+    "port": 993
+  },
+  "Interia ( fake ip poland )": {
+    "host": "mail.interia.pl",
+    "port": 993
+  },
+  "web.de ( fake ip germany )": {
+    "host": "imap.web.de",
+    "port": 993
+  },
+  "Libero":{
+    "host":"imapmail.libero.it",
+    "port":993
+  },
+  "talktalk.co.uk": {
+    "host": "mail.talktalk.net",
+    "port": 993
+  },
+  "freenet.de ( fake ip germany )": {
+    "host": "mx.freenet.de",
+    "port": 993 
+  },
+  "SFR.FR": {
+    "host": "imap.sfr.fr",
+    "port": 993
+  },
+  "videotron.ca": {
+    "host": "imap.videotron.ca",
+    "port": 993
+  },
+  "FastMail": {
+    "host": "imap.fastmail.com",
+    "port": 993
+  },
+  "Godaddy": {
+    "host": "imap.secureserver.net",
+    "port": 993
+  }
+}
